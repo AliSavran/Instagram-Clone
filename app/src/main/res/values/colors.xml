@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="red">#FF0000</color>
+    <color name="colorPrimary">#FF0000</color> <!-- Başlık için kırmızı renk -->
+    <color name="colorPrimaryDark">#D32F2F</color> <!-- Durum çubuğu için koyu kırmızı -->
+    <color name="white">#FFC107</color><!-- Başlık yazı rengi -->
+</resources>
